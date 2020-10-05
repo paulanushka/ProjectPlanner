@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProjectPlanner/static/css/main.53aa6dca.chunk.css",
+    "main.js": "/ProjectPlanner/static/js/main.eb92857b.chunk.js",
+    "main.js.map": "/ProjectPlanner/static/js/main.eb92857b.chunk.js.map",
+    "runtime-main.js": "/ProjectPlanner/static/js/runtime-main.a259a911.js",
+    "runtime-main.js.map": "/ProjectPlanner/static/js/runtime-main.a259a911.js.map",
+    "static/js/2.d7352aae.chunk.js": "/ProjectPlanner/static/js/2.d7352aae.chunk.js",
+    "static/js/2.d7352aae.chunk.js.map": "/ProjectPlanner/static/js/2.d7352aae.chunk.js.map",
+    "index.html": "/ProjectPlanner/index.html",
+    "precache-manifest.77e5fbe8f6af8949a321c52867beb976.js": "/ProjectPlanner/precache-manifest.77e5fbe8f6af8949a321c52867beb976.js",
+    "service-worker.js": "/ProjectPlanner/service-worker.js",
+    "static/css/main.53aa6dca.chunk.css.map": "/ProjectPlanner/static/css/main.53aa6dca.chunk.css.map",
+    "static/js/2.d7352aae.chunk.js.LICENSE.txt": "/ProjectPlanner/static/js/2.d7352aae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a259a911.js",
+    "static/js/2.d7352aae.chunk.js",
+    "static/css/main.53aa6dca.chunk.css",
+    "static/js/main.eb92857b.chunk.js"
+  ]
+}
